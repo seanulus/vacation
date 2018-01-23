@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  border: black solid 4px;
+  padding: 4px;
+  margin: 10px;
+  border-radius: 5px;
+  background-color: #5d8ad3;
+  color: black;
+}
+
+#l {
+  background-image: url(https://www.nationalgeographic.com/content/dam/travel/2017-digital/smart-cities/lima-smart-cities/plaza-mayor-dusk-lima-peru.jpg);
+}
